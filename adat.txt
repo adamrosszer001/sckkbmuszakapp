@@ -1,0 +1,20 @@
+Roberto Mendez	67	Accepted	2025. 02. 07. 19:09:57	5	596
+Roberto Mendez	68	Accepted	2025. 02. 07. 19:17:05	5	596
+Lemondott	69	Cancelled	2025. 02. 07. 19:17:58	5	538
+Roberto Mendez	70	Accepted	2025. 02. 07. 19:37:03	15	596
+Fernando Martinus	71	Accepted	2025. 02. 07. 19:38:21	15	538
+Reggie Gos	72	Accepted	2025. 02. 07. 19:46:23	15	538
+Roberto Mendez	73	Accepted	2025. 02. 07. 19:47:35	15	538
+Fernando Martinus	74	Accepted	2025. 02. 07. 19:59:09	15	538
+Kevin Styles	76	Accepted	2025. 02. 07. 20:00:14	15	538
+Lemondott	75	Cancelled	2025. 02. 07. 20:00:37	15	596
+Kevin Styles	77	Accepted	2025. 02. 07. 20:06:01	14	596
+Reggie Gos	78	Accepted	2025. 02. 07. 20:08:42	14	596
+Reggie Gos	79	Accepted	2025. 02. 07. 20:21:54	14	596
+Fernando Martinus	80	Accepted	2025. 02. 07. 20:27:58	16	593
+Reggie Gos	81	Accepted	2025. 02. 07. 20:29:01	16	593
+Fernando Martinus	82	Accepted	2025. 02. 07. 20:47:52	15	596
+Reggie Gos	83	Accepted	2025. 02. 07. 20:49:24	15	596
+Fernando Martinus	84	Accepted	2025. 02. 07. 21:04:54	15	593
+Reggie Gos	85	Accepted	2025. 02. 07. 21:11:03	15	596
+Fernando Martinus	86	Accepted	2025. 02. 07. 21:17:58	15	118

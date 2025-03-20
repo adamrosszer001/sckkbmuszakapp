@@ -1,0 +1,25 @@
+A;Boxter Mechanic Shop;1.10km;1.43km;Glen Park;1.60km;2.08km
+B;Market;1.10km;1.43km;Doherty;4.95km;6.44km
+C;Kings;6.70km;8.71km;Las Barrancas;3.00km;3.90km
+D;Mulholland Intersection;1.10km;1.43km;Juniper Hollow;7.35km;9.56km
+E;Foster Valley;5.43km;7.06km;Bayside;4.00km;5.20km
+F;Jefferson Motel;1.25km;1.63km;Avispa Country Club;7.40km;9.62km
+A;El Quebrados;10.45km;13.59km;Downtown;4.05km;5.27km
+B;Pláza;1.30km;1.69km;Easter Basin;5.45km;7.09km
+C;SeeRing versenypálya;5.40km;7.02km;East Beach;5.75km;7.48km
+D;Downtown Los Santos;0.90km;1.17km;NAV;6.82km;8.87km
+E;Pláza;1.30km;1.69km;Utánfutó kölcsönző;2.15km;2.80km
+F;Városháza;0.55km;0.72km;Autókereskedés;1.40km;1.82km
+A;Mákvirág kaszinó;0.45km;0.59km;Market;1.70km;2.21km
+B;Juniper Hill;7.05km;9.17km;Lefoglaltak;2.15km;2.80km
+C;Pershing Square;0.60km;0.78km;LS motorkerékpár szervíz;1.36km;1.77km
+D;Hajósbolt;1.40km;1.82km;Autósiskola;0.75km;0.98km
+E;Palomino Creek;3.30km;4.29km;The Panopticon;3.70km;4.81km
+F;Willowfield;0.30km;0.39km;Juniper Hill;7.65km;9.95km
+A;Montgomery Kórház;3.40km;4.42km;Alhambra Club;3.20km;4.16km
+B;Katasztrófavédelem;6.30km;8.19km;Garcia;0.36km;0.47km
+C;Dillimore;2.60km;3.38km;Angel Pine Mechanic Shop;5.90km;7.67km
+D;Zálogház;3.60km;4.68km;Mezőgazdasági nagyker;3.90km;5.07km
+E;Urmaitália festékbolt;6.70km;8.71km;Aranybika kaszinó;2.80km;3.64km
+F;See Burger;0.60km;0.78km;Vágóhíd;4.70km;6.11km
+
